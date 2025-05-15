@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👨‍💻 Sajan Shrestha
 
-<!--
-**sajanshr/sajanshr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Programmer, IT Support & Cybersecurity Enthusiast**  
+🎓 B.S. in Information Systems | 🛡️ Security+ Certified | 💻 Passionate about system troubleshooting, scripting, and helping users
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧾 Certifications
+
+| Certification | Issuer | Date |
+|---------------|--------|------|
+| 🛡️ **CompTIA Security+ (SY0-701)** | CompTIA | April 2025 |
+| 🔐 **Google Cybersecurity Professional** | Google | March 2025 |
+| 💼 **Google IT Support Professional** | Google | January 2025 |
+
+---
+
+## 🛠 Projects
+
+🔗 [Active Directory Lab Projec](#) <!-- Replace with actual link -->
+
+---
+
+### Front End Projects****
+- 🔗 [Wordle](https://github.com/sajanshr/Wordle)
+- 🔗 [Crypto-prices](https://github.com/sajanshr/Crypto-prices)
+- 🔗 [Splitter](https://github.com/sajanshr/Splitter)
+- 🔗 [BlackJack](https://github.com/sajanshr/Blackjack)
+
+---
+
+## 👨‍🔧 Technical Skills
+
+- **IT Support**: Active Directory, PowerShell, Azure, Networking, Windows, Linux, MacOS  
+- **Cybersecurity**: Wireshark, Vulnerability Scanning, Secure Configurations  
+- **Programming**: Python, JavaScript, Java, SQL  
+- **Tools**: Jira, Office 365, Google Workspace  
+
+---
+
+## 📬 Contact
+
+- 📧 [sajnshrestha021@gmail.com](mailto:sajnshrestha021@gmail.com)
+- 📍 Springfield, Missouri
+
+> “Solving problems through technology is more than a job—it’s a responsibility.”  
