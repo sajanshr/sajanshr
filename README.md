@@ -17,7 +17,7 @@
 
 ## 🛠 Projects
 
-🔗 [Active Directory Lab Projec](#) <!-- Replace with actual link -->
+🔗 [Active Directory Lab Project](https://github.com/sajanshr/Active-Directory-Lab/blob/main/README.md) <!-- Replace with actual link -->
 
 ---
 
