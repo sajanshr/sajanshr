@@ -17,7 +17,9 @@
 
 ## 🛠 Projects
 
-🔗 [Active Directory Lab Project](https://github.com/sajanshr/Active-Directory-Lab/blob/main/README.md) <!-- Replace with actual link -->
+🔗 [Active Directory Lab Project](https://github.com/sajanshr/Active-Directory-Lab/blob/main/README.md) 
+🔗 [Azure Sentinel Honeypot Lab](https://github.com/sajanshr/azure-sentinel-honeypot-lab/tree/main) 
+
 
 ---
 
@@ -32,7 +34,7 @@
 ## 👨‍🔧 Technical Skills
 
 - **IT Support**: Active Directory, PowerShell, Azure, Networking, Windows, Linux, MacOS  
-- **Cybersecurity**: Wireshark, Vulnerability Scanning, Secure Configurations  
+- **Cybersecurity**: Wireshark, Vulnerability Scanning, Secure Configurations, Microsoft Sentinel (SIEM), Kusto Query Language (KQL), Log Analytics
 - **Programming**: Python, JavaScript, Java, SQL  
 - **Tools**: Jira, Office 365, Google Workspace  
 
